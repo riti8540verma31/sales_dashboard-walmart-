@@ -46,6 +46,11 @@ The dashboard helps stakeholders quickly identify **top-performing products, reg
 - Higher discounts increase sales volume but can negatively impact profit margins if not carefully optimized.
 - Certain products maintain inventory levels despite low sales, highlighting potential inventory imbalance and overstocking risks.
 
+## 🛠 Tools & Technologies
+- Excel
+
+## 🖼 Dashboard Preview
+![Sales Dashboard](dashboard.png)
 
 ## 👩‍💻 Author
 **Ritika Verma**  
